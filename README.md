@@ -43,12 +43,13 @@ Primary and foreign key relationships connect customers, orders, products, order
 
 ## Key Performance Indicators (KPIs)
 
-- **Total Revenue:** Revenue generated from eligible orders.
-- **Total Orders:** Number of distinct orders.
-- **Average Order Value (AOV):** Average revenue per eligible order.
-- **Repeat Purchase Rate:** Percentage of eligible customers who placed more than one qualifying order.
-- **Payment Success Rate:** Percentage of payment attempts that were successful.
-- **Customer Analysis:** Purchasing frequency and customer contribution to revenue.
+The Power BI dashboard tracks five key performance indicators to evaluate sales performance and customer behavior:
+
+1. **Total Orders:** Total number of orders placed.
+2. **Total Customers:** Number of distinct customers who placed orders.
+3. **Completed Revenue:** Total revenue generated from completed orders.
+4. **Average Order Value (AOV):** Average completed-order revenue per eligible order.
+5. **Return Rate:** Percentage of orders or items returned, based on the return definition used in the analysis.
 
 ## SQL Analysis
 
