@@ -122,7 +122,7 @@ ecommerce-customer-behavior-revenue-analysis/
 
 ## Dashboard Preview
 
-![E-commerce Customer Behavior & Revenue Analysis Dashboard](screenshots/dashboard-overview.png)
+![E-commerce Customer Behavior & Revenue Analysis Dashboard](Ecommere_dashboard_overview.png)
 
 ## Author
 
