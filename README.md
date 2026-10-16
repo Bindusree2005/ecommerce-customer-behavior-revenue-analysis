@@ -120,6 +120,10 @@ ecommerce-customer-behavior-revenue-analysis/
 - Interactive dashboard development
 - Business insight generation
 
+## Dashboard Preview
+
+![E-commerce Customer Behavior & Revenue Analysis Dashboard](screenshots/dashboard-overview.png)
+
 ## Author
 
 **Bindu Sree Guddeti**
